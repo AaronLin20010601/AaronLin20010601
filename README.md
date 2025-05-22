@@ -15,9 +15,9 @@
 [![TailwindCSS](./assets/tailwindcss.png)](https://tailwindcss.com/)
 [![Visual Studio](./assets/visualstudio.png)](https://visualstudio.microsoft.com/)
 [![VS Code](./assets/vscode.png)](https://code.visualstudio.com/)
-[![Supabase](./assets/supabase.png)](https://supabase.com/)
   
 ### 🛠️ Other Free Services & Tools:
+[![Supabase](./assets/supabase.png)](https://supabase.com/)
 [![Mailjet](./assets/mailjet.png)](https://www.mailjet.com/)
 [![CurrencyApi](./assets/currencyapi.png)](https://currencyapi.com/)
 [![OpenWeatherMap](./assets/openweathermap.png)](https://openweathermap.org/)
