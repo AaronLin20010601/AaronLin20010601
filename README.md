@@ -17,9 +17,22 @@
 [![Supabase](./assets/supabase.png)](https://supabase.com/)
   
 ### 📂 Featured Repositories:
-[![Todolist](./assets/todolist.png)](https://github.com/AaronLin20010601/Todolist)
-A full stack practice project of To-Do list website.  
-[![LifeAccounting](./assets/lifeAccounting.png)](https://github.com/AaronLin20010601/LifeAccounting)
-A full stack practice project of tracking expense and income records with statistics and chart visualization.  
-[![WeatherMap](./assets/WeatherMap.png)](https://github.com/AaronLin20010601/WeatherMap)
-A heavy frontend practice project of displaying variant visualize weather informations on world map with memory cache backend.  
+<div align="center">
+  <a href="https://github.com/AaronLin20010601/Todolist">
+    <img src="./assets/todolist.png" width="300px"/><br/>
+    <strong>Todolist</strong><br/>
+    A full stack practice project of To-Do list website.
+  </a>
+  <br/><br/>
+  <a href="https://github.com/AaronLin20010601/LifeAccounting">
+    <img src="./assets/lifeAccounting.png" width="300px"/><br/>
+    <strong>LifeAccounting</strong><br/>
+    A full stack practice project of tracking expense and income records with statistics and chart visualization.
+  </a>
+  <br/><br/>
+  <a href="https://github.com/AaronLin20010601/WeatherMap">
+    <img src="./assets/WeatherMap.png" width="300px"/><br/>
+    <strong>WeatherMap</strong><br/>
+    A heavy frontend practice project of displaying variant visualize weather informations on world map with memory cache backend.
+  </a>
+</div>
