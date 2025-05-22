@@ -18,8 +18,8 @@
   
 ### 📂 Featured Repositories:
 [![Todolist](./assets/todolist.png)](https://github.com/AaronLin20010601/Todolist)
-A full stack practice project of To-Do list website.  
+Todolist: A full stack practice project of To-Do list website.  
 [![LifeAccounting](./assets/lifeAccounting.png)](https://github.com/AaronLin20010601/LifeAccounting)
-A full stack practice project of tracking expense and income records with statistics and chart visualization.  
+LifeAccounting: A full stack practice project of tracking expense and income records with statistics and chart visualization.  
 [![WeatherMap](./assets/WeatherMap.png)](https://github.com/AaronLin20010601/WeatherMap)
-A heavy frontend practice project of displaying variant visualize weather informations on world map with memory cache backend.  
+WeatherMap: A heavy frontend practice project of displaying variant visualize weather informations on world map with memory cache backend.  
