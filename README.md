@@ -17,6 +17,11 @@
 [![VS Code](./assets/vscode.png)](https://code.visualstudio.com/)
 [![Supabase](./assets/supabase.png)](https://supabase.com/)
   
+### 🛠️ Other Free Services & Tools:
+[![Mailjet](./assets/mailjet.png)](https://www.mailjet.com/)
+[![CurrencyApi](./assets/currencyapi.png)](https://currencyapi.com/)
+[![OpenWeatherMap](./assets/openweathermap.png)](https://openweathermap.org/)
+  
 ### 📂 Featured Repositories:
 [![Todolist](./assets/todolist.png)](https://github.com/AaronLin20010601/Todolist)
 Todolist: A full stack practice project of To-Do list website.  
