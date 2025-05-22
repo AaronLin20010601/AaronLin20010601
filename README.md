@@ -11,7 +11,7 @@
   
 ### 🧰 Languages & Tools:
 [![C#](./assets/csharp.png)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![Javascript](./assets/javascript.png)](https://nodejs.org/)
+[![Javascript](./assets/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](./assets/html.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![TailwindCSS](./assets/tailwindcss.png)](https://tailwindcss.com/)
 [![Visual Studio](./assets/visualstudio.png)](https://visualstudio.microsoft.com/)
