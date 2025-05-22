@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 - I'm currently working & learning on .net core web api & vue.js.
   
 ### 📫 How to Contact:
