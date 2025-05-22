@@ -1,6 +1,6 @@
 ### 👋 Hi there
-- I'm currently working & learning on .net core web api & vue.js.
-- Mainly practicing by developing practical web applications for daily use.
+- 💻 I'm currently working & learning on .net core web api & vue.js.
+- 🧪 Mainly practicing by developing practical web applications for daily use.
   
 ### 📫 How to Contact:
 [![Email](./assets/gmail.png)](mailto:aaronguitarnoob90425@gmail.com)
