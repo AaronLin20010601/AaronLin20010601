@@ -31,5 +31,6 @@ LifeAccounting: A full stack practice project of tracking expense and income rec
 [![WeatherMap](./assets/WeatherMap.png)](https://github.com/AaronLin20010601/WeatherMap)
 WeatherMap: A heavy frontend practice project of displaying variant visualize weather informations on world map with memory cache backend.  
   
-### 📊 Most Used Languages
+### 📊 Language Distribution
+> Percentage of languages used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLin20010601&layout=compact&langs_count=10&theme=default)](https://github.com/anuraghazra/github-readme-stats)
