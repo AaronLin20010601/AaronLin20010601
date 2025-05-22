@@ -16,6 +16,6 @@
 [![Supabase](./assets/supabase.png)](https://supabase.com/)
   
 ### 📂 Featured Repositories:
-[![Todolist](./assets/Todolist.png)](https://github.com/AaronLin20010601/Todolist)
+[![Todolist](./assets/todolist.png)](https://github.com/AaronLin20010601/Todolist)
 [![LifeAccounting](./assets/lifeAccounting.png)](https://github.com/AaronLin20010601/LifeAccounting)
 [![WeatherMap](./assets/WeatherMap.png)](https://github.com/AaronLin20010601/WeatherMap)
