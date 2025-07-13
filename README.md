@@ -33,5 +33,9 @@ WeatherMap: A heavy frontend practice project of displaying variant visualize we
 [![ChatBox](./assets/ChatBox.png)](https://github.com/AaronLin20010601/ChatBox)
 ChatBox: A practice project using the architecture of microservice, implement a real time chat room with modularization backend services.  
   
+### 📝 Other Practices:
+[![leetcode](./assets/leetcode.png)](https://github.com/AaronLin20010601/leetcode)
+leetcode: My leetcode questions records.  
+  
 ### 📊 Language Distribution
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLin20010601&layout=compact&langs_count=10&theme=default)](https://github.com/anuraghazra/github-readme-stats)
