@@ -38,4 +38,4 @@ ChatBox: A practice project using the architecture of microservice, implement a 
 leetcode: My leetcode questions records.  
   
 ### 📊 Language Distribution
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLin20010601&layout=compact&langs_count=10&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLin20010601&layout=pie&langs_count=10&theme=default)](https://github.com/anuraghazra/github-readme-stats)
